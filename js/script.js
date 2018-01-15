@@ -168,7 +168,7 @@ $(document).ready(function(){
 	setTimeout( function(){
 		if($("#site-type").length) {
         $(".typewrite span").typed({
-            strings: ["我的项目 ", "作品展示"],
+            strings: [ "伯乐？","听说你在找一匹马"],
             typeSpeed: 100,
             backDelay: 500,
             loop: false,
